@@ -1,0 +1,199 @@
+canonical_identifier: bkk:krp/KR5c0124/v1
+canonical_location: https://kanripo.org/bkk/KR5c0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 列子
+  identifiers:
+    alt_id:
+    - H11-06-0027
+  tags:
+    kr-categories: KR5c
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    - tr-fr
+    - tr-zh
+    - tr-ru
+    tls-dates: dat04100
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0124.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR5c0124_001.yaml, hash: 'sha256:7e4a911b2caf1a579d185f44f915c9b320c2497a1076b37a218b4fd7f7af3cf5'}
+  - {seq: 2, filename: KR5c0124_002.yaml, hash: 'sha256:322f72a604eb7f37fb53f3fb774490f56f58774772d60d19e691a370a7a73f5e'}
+  - {seq: 3, filename: KR5c0124_003.yaml, hash: 'sha256:6f614c9bd28a36bf02e0f95e27078dbc39f5329e80859e5b3eade6982e29de75'}
+  - {seq: 4, filename: KR5c0124_004.yaml, hash: 'sha256:2d1c16a940800a46bfc81398f883211554a7fffc3a4b64699c3360443dc192cb'}
+  - {seq: 5, filename: KR5c0124_005.yaml, hash: 'sha256:11ce49e536e3d61ba1218d91420a0cd66868f609f73dd131cbe9c33910a2be03'}
+  - {seq: 6, filename: KR5c0124_006.yaml, hash: 'sha256:8f3a67c43ddf7c61612375bf59cfbec4eca5283aed432c5641896c6ba67511fd'}
+  - {seq: 7, filename: KR5c0124_007.yaml, hash: 'sha256:d18773e1649e9a792aaf5188042e3d79a5bbca55f53b63c7c310fabe7f0dc4a8'}
+  - {seq: 8, filename: KR5c0124_008.yaml, hash: 'sha256:c0adc64b6986120f8ebf7b046ad834b33f674ca3f62644488deecbec0ee35486'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5c0124_001.markers.yaml, hash: 'sha256:12984232ead62062d07f455250cec657f56eb117f8ad7e6e80ec282e5ac2688f'}
+  - {seq: 2, role: markers, filename: assets/KR5c0124_002.markers.yaml, hash: 'sha256:716162c83d5dde98e958f925ce3398f46f5b493fd54b7ad769e60d2d665239dc'}
+  - {seq: 3, role: markers, filename: assets/KR5c0124_003.markers.yaml, hash: 'sha256:289329258aca9aa8c79045f47c69d08f72c6f1cb4ed784636554a96e116382b8'}
+  - {seq: 4, role: markers, filename: assets/KR5c0124_004.markers.yaml, hash: 'sha256:8488a4dc7713cc575556268571d56f7d4509bdd9021b0d8969721481193c9f5b'}
+  - {seq: 5, role: markers, filename: assets/KR5c0124_005.markers.yaml, hash: 'sha256:02e1e91a0f30e3f026b1b648dc7ab968bf753a3c1305f7303e0b1330f7a9d450'}
+  - {seq: 6, role: markers, filename: assets/KR5c0124_006.markers.yaml, hash: 'sha256:4634bb429fc205799940e1ca7c364e72452acbfd1875efc142c7252c3ef47c97'}
+  - {seq: 7, role: markers, filename: assets/KR5c0124_007.markers.yaml, hash: 'sha256:e42849a4cd81c0fd2d1a49de3c772e7883b8670d5853b78db07cc470dfd9b91a'}
+  - {seq: 8, role: markers, filename: assets/KR5c0124_008.markers.yaml, hash: 'sha256:2db680997f3ec14826c6426b03f6d08948f372f166908e7d780837ab76331097'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5c0124_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 3048
+  label: 天瑞第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0124_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 天瑞第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0124_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 5369
+  label: 黃帝第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0124_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 黃帝第二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0124_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 2702
+  label: 周穆王第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0124_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 周穆王第三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5c0124_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 3242
+  label: 仲尼第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0124_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 仲尼第四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5c0124_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 4833
+  label: 湯問第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0124_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 湯問第五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5c0124_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 3007
+  label: 力命第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0124_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 力命第六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5c0124_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 4045
+  label: 楊朱第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0124_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 楊朱第七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5c0124_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 4585
+  label: 說符第八
+  type: section
+  level: 1
+hash: sha256:9c5b030243d828d732ad510d367737bb31fbeebc97aedbd022380e1186675102
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
